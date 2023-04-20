@@ -1,0 +1,796 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.color-ofall {
+    background-color: rgb(243, 233, 233);
+    ;
+}
+
+.part1 {
+    background-image: url("../motorcycle/images/Rectanglebackground1.png");
+    background-size: cover;
+}
+
+.nbar1 {
+    z-index: 2;
+    font-size: 23px;
+}
+
+.lift {
+    width: 100%;
+}
+
+.number1 {
+    margin-bottom: 7%;
+}
+
+.icon-socials {
+    color: white;
+}
+
+.motor1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    position: relative;
+}
+
+.nav-item {
+    color: white;
+}
+
+.icon-socials {
+    border: 1px solid;
+    border-radius: 55%;
+}
+
+.big-triangle {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    z-index: 1;
+}
+
+.text-above-motor {
+    position: absolute;
+    color: white;
+    z-index: 2;
+    font-family: Delicious Handrawn;
+    font-size: 70px;
+    top: -26%;
+}
+
+/* part 2 */
+.number2 {
+    margin-bottom: 7%;
+}
+
+.btn-primary {
+    background-color: red;
+    border-radius: 10%;
+    border: none;
+}
+
+.small-triangle {
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 35%;
+}
+
+.price-redtriangle {
+    position: absolute;
+    color: white;
+    top: 42%;
+}
+
+.Price1 {
+    font-size: 30px;
+}
+
+.Price2 {
+    font-size: 40px;
+}
+
+
+/*part3*/
+
+.red-rectangle {
+    background-image: url("../motorcycle/images/red-rectangle.png");
+    margin-bottom: 2%;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+.tx1 {
+    padding-right: 15%;
+}
+
+.tx2 {
+    padding-left: 30%;
+}
+
+.white-rectangle {
+    background-image: url("../motorcycle/images/people-background.png");
+    margin-top: 7%;
+}
+
+.position {
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
+.motor2 {
+    position: absolute;
+    height: 500px;
+    width: 200px;
+    left: 45%
+}
+
+/*Part4*/
+.black-text {
+    color: black;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 100px;
+
+}
+
+.red-text {
+    color: red;
+}
+
+.white-backg {
+    background-color: white;
+}
+
+.text-man {
+    text-align: center;
+}
+
+.john {
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    margin-left: 30%;
+    margin-top: 19%;
+}
+
+.johnpic {
+    padding-left: 37%;
+    margin-top: 4%;
+}
+
+.johntext {
+    margin-top: 4%;
+}
+
+.parag {
+
+    padding-top: 20%;
+}
+
+.parag1 {
+    text-align: center;
+}
+
+/*Part5*/
+
+.back-gr {
+    background-color: rgb(26, 25, 25);
+    background-image: url("../motorcycle/images/map.png");
+    background-size: cover;
+}
+
+.white-text {
+    text-align: center;
+    color: white;
+    font-family: Bebas Neue;
+    padding-top: 6%;
+
+}
+
+.text-cap {
+    text-align: center;
+    color: white;
+}
+
+.red-color {
+    background-color: rgb(165, 58, 58);
+    height: 239px;
+}
+
+.text5 {
+    padding-left: 161px;
+    margin-top: 7%;
+}
+
+.text5-2 {
+    margin-top: 5%;
+}
+
+.nr {
+    color: white;
+}
+
+.km {
+    color: white;
+    font-size: 20px;
+}
+
+.nr-1 {
+    color: white;
+}
+
+/*div of text5-2*/
+.km1 {
+    font-size: 27px;
+}
+
+.nr1 {
+    color: white;
+    font-size: 42px;
+}
+
+.nr-2 {
+    font-size: 30px;
+    color: white;
+}
+
+.loremtext5 {
+    color: white;
+    padding-left: 115px;
+}
+
+/*div of the other part*/
+.plus {
+    padding-left: 72px;
+    color: white;
+}
+
+.number-of-km {
+    font-size: 72px;
+}
+
+.cnt {
+    font-size: 27px;
+}
+
+.plus1 {
+    color: white;
+    margin-top: 5%;
+}
+
+.nr-plus1 {
+    font-size: 30px;
+}
+
+.km-plus1 {
+    font-size: 20px;
+}
+
+.plus-text {
+    color: white;
+    padding-left: 84px;
+}
+
+.abc {
+    padding-top: 7%;
+}
+
+.motor3 {
+    display: flex;
+    justify-content: center;
+    margin-top: -13%;
+}
+
+.motor3-image {
+    height: 350px;
+}
+
+/*Part6*/
+.number6 {
+    margin-top: 3%;
+}
+
+.small-triangle1 {
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 37%;
+}
+
+.text-country {
+    position: absolute;
+    color: white;
+    top: 50%;
+}
+
+.country {
+    font-size: 25px;
+}
+
+.text6 {
+    text-align: center;
+}
+
+.text-part6 {
+    font-family: Bebas Neue;
+    color: black;
+    font-size: 45px;
+}
+
+/*Part7*/
+.image-background7 {
+    background-image: url("../motorcycle/images/image-part7.png");
+    background-size: cover;
+}
+
+.text-part7 {
+    text-align: center;
+    color: white;
+    margin-top: 7%;
+    padding-top: 8%;
+    padding-bottom: 10%
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -7%;
+}
+
+/*Part8*/
+.part8 {
+    margin-top: 7%;
+}
+
+.icon-socials-part8 {
+    color: black;
+    border: 5px solid;
+    border-color: yellow;
+    border-radius: 60%;
+
+}
+
+.ICON {
+    margin-top: 3%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+
+}
+
+/*Part9*/
+.part9 {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}
+
+.text-part9 {
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+@media screen and (max-width: 1433px) {
+    .big-triangle1 {
+        width: 921px;
+    }
+
+    .motor2 {
+        display: none;
+    }
+
+    .motor3 {
+        display: none;
+    }
+
+    .nbar1 {
+        font-size: 20px;
+    }
+
+    .a1 {
+        padding-left: 63px;
+    }
+
+    .a2 {
+        padding-left: 50px;
+    }
+
+    .a3 {
+        padding-left: 63px;
+    }
+
+}
+
+@media screen and (max-width: 1100px) {
+    .big-triangle1 {
+        width: 800px;
+    }
+
+    .big-triangle {
+        position: absolute;
+        top: 0%;
+        right: -5%;
+        z-index: 1;
+    }
+
+    .nbar1 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1234px) {
+    .nbar1 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1030px) {
+    .big-triangle1 {
+        width: 800px;
+    }
+
+    .big-triangle {
+        position: absolute;
+        top: 0%;
+        right: -13%;
+        z-index: 1;
+    }
+
+    .nbar1 {
+        font-size: 17px;
+    }
+    .johnpic {
+        padding-left: 26%;
+        margin-top: 4%;
+    }
+    .john {
+        width: 70%;
+        height: 82%;
+        background-color: white;
+        margin-left: 30%;
+        margin-top: 19%;
+    }
+    .parag {
+        padding-top: 23%;
+    }
+    .text5 {
+        padding-left: 90px;
+        margin-top: 7%;
+    }
+    .loremtext5 {
+        color: white;
+        padding-left: 100px;
+    }
+    .red-color {
+        background-color: rgb(165, 58, 58);
+        height: 263px;
+    }
+}
+@media screen and (max-width: 1020px) {
+    .text5 {
+        padding-left: 115px;
+        margin-top: 7%;
+    }
+    .red-color{
+        height: 262px;
+    }
+    .john {
+        width: 70%;
+        height: 82%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+
+}
+@media screen and (max-width: 950px) {
+    .big-triangle1 {
+        width: 632px;
+    }
+
+    .motor {
+        width: 632px;
+    }
+
+    .text-above-motor {
+        display: none;
+    }
+
+    .john {
+        width: 70%;
+        height: 83%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+
+    .johnpic {
+        padding-left: 27%;
+        margin-top: 4%;
+    }
+    .red-color{
+        height: 262px;
+    }
+    .redloc{
+        width:100px;
+    }
+    .bill{
+        padding-left: 0px;
+    }
+    .email{
+        padding-left: 30px;
+    }
+    .address{
+        padding-left: 30px;
+    }
+    
+}
+@media screen and (max-width: 913px) {
+    .red-color{
+        height: 272px;
+    }
+}
+@media screen and (max-width: 770px) {
+    .john {
+        width: 70%;
+        height: 85%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+
+    .johnpic {
+        padding-left: 27%;
+        margin-top: 4%;
+    }
+
+    /* .email{
+        padding-left: 10%;
+    }
+    .address{
+        padding-left:10%;
+    } */
+
+    .a1 {
+        padding-left: 63px;
+    }
+
+    .a2 {
+        padding-left: 62px;
+    }
+
+    .a3 {
+        padding-left: 63px;
+    }
+
+    .bill {
+        margin-left: -4%;
+    }
+
+    .b1 {
+        padding-left: 7%;
+    }
+
+    .blackman {
+        display: none;
+    }
+    .john {
+        width: 70%;
+        height: 85%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 5%;
+    }
+    .john {
+        width: 70%;
+        height: 92%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 5%;
+    }
+    .loremtext5 {
+        color: white;
+        padding-left: 73px;
+    }
+    .text5 {
+        padding-left: 73px;
+        margin-top: 7%;
+    }
+    .red-color {
+        height: 275px;
+    }
+    .plus1 {
+        color: white;
+        margin-top: 5%;
+        padding-left: 48px;
+    }
+    .email{
+        padding-left: 30px;
+    }
+    .address{
+        padding-left: 30px;
+    }
+    
+}
+@media screen and (max-width: 767px) {
+    .red-color{
+        height: 262px;
+    }
+}
+
+
+@media screen and (max-width: 615px) {
+    .ICON {
+        display: block;
+    }
+
+    .big-triangle1 {
+        width: 410px;
+    }
+
+    .motor {
+        width: 360px;
+    }
+
+    .john {
+        width: 70%;
+        height: 76%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+
+    .johnpic {
+        padding-left: 27%;
+        margin-top: 4%;
+    }
+    .redloc{
+        width:50px;
+    }
+    .email{
+        padding-left: 0px;
+    }
+    .address{
+        padding-left: 0px;
+    }
+    
+}
+
+@media screen and (max-width: 500px) {
+    .big-triangle1 {
+        width: 210px;
+    }
+    .john {
+        width: 70%;
+        height: 82%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+
+    .johnpic {
+        padding-left: 27%;
+        margin-top: 4%;
+    }
+
+    .a1 {
+        padding-left: 63px;
+    }
+
+    .a2 {
+        padding-left: 62px;
+    }
+
+    .a3 {
+        padding-left: 63px;
+    }
+
+    .bill {
+        margin-left: -4%;
+    }
+
+    .b1 {
+        padding-left: 19%;
+    }
+    .text5 {
+        padding-left: 30px;
+        margin-top: 7%;
+    }
+    .loremtext5 {
+        color: white;
+        padding-left: 20px;
+    }
+    .red-color {
+        height: 272px;
+    }
+    .plus {
+        padding-left: 23px;
+        color: white;
+    }
+}
+@media screen and (max-width: 376px) {
+    .john {
+        width: 70%;
+        height: 85%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+    .red-color {
+        height: 272px;
+    }
+    .plus {
+        padding-left: 23px;
+        color: white;
+    }
+}
+@media screen and (max-width: 281px) {
+    .big-triangle {
+        position: absolute;
+        top: 0%;
+        right: -18%;
+        z-index: 1;
+    }
+    .big-triangle1 {
+        width: 183px;
+    }
+    .motor1 {
+        display: flex;
+        justify-content: center;
+        margin-top: -16%;
+        position: relative;
+        margin-left: 51px;
+    }
+    .johnpic {
+        padding-left: 9%;
+        margin-top: 4%;
+    }
+    .txt-4{
+        font-size: 14px;
+        
+    }
+    .john {
+        width: 70%;
+        height: 89%;
+        background-color: white;
+        margin-left: 17%;
+        margin-top: 19%;
+    }
+    .text5 {
+        padding-left: 10px;
+        margin-top: 7%;
+    }
+    .nr1 {
+        color: white;
+        font-size: 33px;
+    }
+    .nr-2 {
+        font-size: 26px;
+        color: white;
+    }
+    .red-color {
+        height: 298px;
+    }
+    .plus {
+        padding-left: 10px;
+        color: white;
+    }
+    .plus1 {
+        color: white;
+        margin-top: 5%;
+        padding-left: 19px;
+    }
+}
